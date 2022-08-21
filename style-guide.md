@@ -7,6 +7,13 @@ The designs were created to the following widths:
 - Mobile L: 425px
 - Laptop L: 1440px
 
+other widths
+
+- 1115px
+- 991px
+- 830px
+- 768px
+
 ## Colors
 
 ### Primary
